@@ -1,0 +1,13 @@
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\obj\Debug\Xerath.csprojResolveAssemblyReference.cache
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\Xerath.exe.config
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\Xerath.exe
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\Xerath.pdb
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\HesaEngine.Core.dll
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\HesaEngine.CoreXtra.dll
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\SharpDX.Direct3D9.dll
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\SharpDX.DirectInput.dll
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\SharpDX.dll
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\fasmdll_managed.dll
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\bin\Debug\fasmdll_managed.pdb
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\obj\Debug\Xerath.exe
+D:\Users\Sterioss\Desktop\LeagueSharp-master\Xerath\obj\Debug\Xerath.pdb
